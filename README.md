@@ -12,3 +12,5 @@ Django takes security seriously and helps developers avoid many common security 
 
 Exceedingly scalable.
 Some of the busiest sites on the Web leverage Django’s ability to quickly and flexibly scale.
+Why Django;
+With django you can take web application  from concept to launch in a matter of hours.Django takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel . It`s free and open source
